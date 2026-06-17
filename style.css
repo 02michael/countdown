@@ -32,8 +32,7 @@ html {
   border: 2px solid #fff3;
 }
 
-::view-transition-group(root) {
-}
+
 
 ::view-transition-group(number) {
   animation-duration: 1s;
